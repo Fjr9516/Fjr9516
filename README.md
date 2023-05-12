@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jingru, a doctoral student from the department of biomedical engineering and health of KTH, majoring in technology and health.
 - 👀 My thesis will explore the application of unconventional deep learning approaches like registration to brain aging and tumor resection neurosurgery.
-- 🌱 I’m currently interested in federated learning in medical applications.
 - 📫 How to reach me: jingruf@kth.se
 
 <!---
