@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Jingru, a doctoral student from the department of biomedical engineering and health of KTH, majoring in technology and health.
-- 👀 My thesis will explore the application of unconventional deep learning approaches like registration to brain aging and tumor resection neurosurgery.
-- 📫 How to reach me: jingruf@kth.se
+- 👋 Hi, I’m Jingru. I am currently a Postdoctoral Research Fellow at Massachusetts General Hospital (MGH) and Harvard Medical School to work with [Malte Hoffmann](https://martinos.org/malte/) and [Bruce Fischl](https://lcn.martinos.org/people/fischl/).
+- 📫 How to reach me: jifu1@mgh.harvard.edu
 
 <!---
 Fjr9516/Fjr9516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
