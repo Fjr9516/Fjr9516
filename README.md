@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jingru. I am currently a Postdoctoral Research Fellow at Massachusetts General Hospital (MGH) and Harvard Medical School to work with [Malte Hoffmann](https://martinos.org/malte/) and [Bruce Fischl](https://lcn.martinos.org/people/fischl/).
+- 👋 Hi, I’m Jingru. I am currently a Postdoctoral Research Fellow at Massachusetts General Hospital (MGH) and Harvard Medical School, working with [Malte Hoffmann](https://martinos.org/malte/) and [Bruce Fischl](https://lcn.martinos.org/people/fischl/).
 - 📫 How to reach me: jifu1@mgh.harvard.edu
 
 <!---
